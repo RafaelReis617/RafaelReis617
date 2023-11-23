@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px"
-  src="https://github-readme-stats.vercel.app/api?username=RafaelReis617&show_icons=true&theme=tokyonight alt="Rafael Reis github stats" />
+  src="https://github-readme-stats.vercel.app/api?username=RafaelReis617&show_icons=true&theme=tokyonight" alt="Rafael Reis github stats" />
   <img width="41%" height="195px" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReis617&layout=compact" />
   </div>

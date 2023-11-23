@@ -9,6 +9,8 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReis617&layout=compact&hide_border=true&theme=tokyonight" />
   </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelReis617&bg_color=000000&color=00ccff&line=00e68e&point=8512ba&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="left"> 
 <a href="https://www.linkedin.com/in/rafael-reis-910325262" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
  </div>

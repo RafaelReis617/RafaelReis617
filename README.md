@@ -6,7 +6,7 @@
   <img width="49%" height="195px"
   src="https://github-readme-stats.vercel.app/api?username=RafaelReis617&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Rafael Reis github stats" />
   <img width="41%" height="195px" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReis617&layout=compact&theme=tokyonight" />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReis617&layout=compact&hide_border=true&theme=tokyonight" />
   </div>
 
 <div align="center"> 

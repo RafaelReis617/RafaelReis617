@@ -51,6 +51,9 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
+
+![snake gif](https://github.com/RafaelReis617/RafaelReis617/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RafaelReis617}/count.svg" /></p> 
@@ -59,5 +62,3 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>
  
-
-![snake gif](https://github.com/RafaelReis617/RafaelReis617/blob/output/github-contribution-grid-snake.svg)

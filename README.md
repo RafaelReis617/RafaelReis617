@@ -13,7 +13,6 @@
 </p>
 
 <br>
-<br>
 
 ## 📊 My Github Stats
 
@@ -26,7 +25,6 @@
   </div>
 <br/>
 
-  <br>
   <br>
   
 ## 📈 My Contribuition Graph

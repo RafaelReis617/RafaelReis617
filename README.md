@@ -57,6 +57,8 @@
 <br>
 </div>
 
+### Watch my contribution graph get eaten by the snake 🐍
+<!-- platane/snk works, it just puts it on a new branch -->
 ![snake gif](https://github.com/RafaelReis617/RafaelReis617/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer"/>

@@ -8,12 +8,21 @@
     </a>
 </p>
 
+<br>
+<br>
+
+## 📊 My Github Stats
+
 <div align="center">  
   <img width="49%" height="195px"
   src="https://github-readme-stats.vercel.app/api?username=RafaelReis617&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Rafael Reis github stats" />
   <img width="41%" height="195px" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReis617&layout=compact&hide_border=true&theme=tokyonight" />
   </div>
+<br>
+<br>
+
+📊 My Contribuition Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelReis617&bg_color=000000&color=00ccff&line=00e68e&point=8512ba&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

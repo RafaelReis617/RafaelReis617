@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rafael+Reis;I'm+17+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+
+<br>
+<br>
 <p align="center">
     <a href="https://github.com/RafaelReis617/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rafael's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelReis617&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -13,19 +16,22 @@
 
 ## 📊 My Github Stats
 
+<br/>
 <div align="center">  
   <img width="49%" height="195px"
   src="https://github-readme-stats.vercel.app/api?username=RafaelReis617&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Rafael Reis github stats" />
   <img width="41%" height="195px" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelReis617&layout=compact&hide_border=true&theme=tokyonight" />
   </div>
-<br>
-<br>
+<br/>
 
+  <br>
+  <br>
 📊 My Contribuition Graph
-
+  <br/>
+  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelReis617&bg_color=000000&color=00ccff&line=00e68e&point=8512ba&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <br/>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RafaelReis617&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>

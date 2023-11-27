@@ -57,7 +57,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RafaelReis617/RafaelReis617/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/RafaelReis617/snk)_
+_generated with [RafaelReis617/snk](https://github.com/RafaelReis617/snk)_
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  

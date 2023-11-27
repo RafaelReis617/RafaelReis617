@@ -35,11 +35,12 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelReis617&bg_color=000000&color=00ccff&line=00e68e&point=8512ba&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <br/>
   
-  ## 🏆 My Profile Trophy
+## 🏆 My Profile Trophy
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RafaelReis617&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+## ​👨‍💻​ Connect with me:
 <div align="left"> 
 <a href="https://www.linkedin.com/in/rafael-reis-910325262" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://instagram.com/dev.rafaelreis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>

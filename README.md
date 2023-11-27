@@ -51,7 +51,7 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
- ![Snake animation](https://github.com/RafaelReis617/RafaelReis617/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/RafaelReis617/RafaelReis617/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  

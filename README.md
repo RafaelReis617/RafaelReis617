@@ -5,7 +5,6 @@
 ## 📊 My Streak Stats
 
 <br>
-<br>
 <p align="center">
     <a href="https://github.com/RafaelReis617/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rafael's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelReis617&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -25,7 +24,7 @@
   </div>
 <br/>
 
-  <br>
+ <br>
   
 ## 📈 My Contribuition Graph
   <br>

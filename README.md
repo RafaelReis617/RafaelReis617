@@ -28,7 +28,7 @@
   <br>
   <br>
 📊 My Contribuition Graph
-  <br/>
+  <br>
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelReis617&bg_color=000000&color=00ccff&line=00e68e&point=8512ba&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <br/>
